@@ -11,7 +11,7 @@
 <body>
     <div id="add">
       <h1>Product Add</h1>
-      <form id="main" action="/php/addProducts.php" method="POST">
+      <form id="main" action="/php/extra.php" method="POST">
         <button type="submit" name="submit" class="submit">save</button>
         <hr>
         <div id="info">
